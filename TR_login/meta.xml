@@ -1,0 +1,25 @@
+<meta>
+	<info author="NyAngel" type="script" name="TR_login" />
+	<download_priority_group>-9999</download_priority_group>
+
+	<script src="utils.lua" type="client" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="spawn.lua" type="client" cache="false" />
+	<script src="s.lua" type="server"/>
+
+	<file src="assets/images/logo.png" type="client" />
+	<file src="assets/images/bg.png" type="client" />
+	<file src="assets/images/bg2.png" type="client" />
+	<file src="assets/images/discord.png" type="client" />
+
+	<file src="assets/images/search.png" type="client" />
+	<file src="assets/images/accept.png" type="client" />
+	<file src="assets/images/decline.png" type="client" />
+
+	<file src="assets/images/sad.png" type="client" />
+
+	<file src="assets/sound/login.mp3" type="client" />
+
+	<export function="isSpawnSelectEnabled" type="client" />
+	<export function="updatePlayerOrganization" type="server" />
+</meta>

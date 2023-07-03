@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <object id="object (tall_fence) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="974" scale="-99" doublesided="true" collisions="true" frozen="true" posX="2799.5" posY="-2429.7" posZ="16.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="974" scale="-99" doublesided="true" collisions="true" frozen="true" posX="2799.5" posY="-2405.2998" posZ="16.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="974" scale="-83" doublesided="true" collisions="true" frozen="true" posX="2798.5" posY="-2443.3999" posZ="16.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="974" scale="-98" doublesided="true" collisions="true" frozen="true" posX="2799.1001" posY="-2468.3" posZ="16.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (5)" breakable="true" interior="0" alpha="255" dimension="0" model="974" scale="-99" doublesided="true" collisions="true" frozen="true" posX="2799.3" posY="-2482.2" posZ="16.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (6)" breakable="true" interior="0" alpha="255" dimension="0" model="974" scale="-99" doublesided="true" collisions="true" frozen="true" posX="2798.2" posY="-2506.2" posZ="16.1" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (1)" radius="3.5507746" interior="0" model="1686" lodModel="0" posX="-1665.5234" posY="416.91406" posZ="6.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (2)" radius="3.5507746" interior="0" model="1686" lodModel="0" posX="-1672.1328" posY="423.5" posZ="6.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (3)" radius="3.5507746" interior="0" model="1686" lodModel="0" posX="-1669.9062" posY="412.53125" posZ="6.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (4)" radius="3.5507746" interior="0" model="1686" lodModel="0" posX="-1676.5156" posY="419.11719" posZ="6.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (5)" radius="3.5507746" interior="0" model="1686" lodModel="0" posX="-1675.2187" posY="407.19531" posZ="6.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (6)" radius="3.5507746" interior="0" model="1686" lodModel="0" posX="-1681.8281" posY="413.78125" posZ="6.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (7)" radius="3.5507746" interior="0" model="1686" lodModel="0" posX="-1679.3594" posY="403.05469" posZ="6.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (8)" radius="3.5507746" interior="0" model="1686" lodModel="0" posX="-1685.9687" posY="409.64063" posZ="6.38281" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

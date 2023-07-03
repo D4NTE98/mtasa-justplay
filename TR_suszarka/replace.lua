@@ -1,0 +1,6 @@
+addEventHandler("onClientResourceStart", resourceRoot, function ()
+	txd = engineLoadTXD ( "22.txd" )
+	engineImportTXD ( txd, 26 )
+    dff = engineLoadDFF ( "22.dff", 26 )
+    engineReplaceModel ( dff, 26 )
+end)

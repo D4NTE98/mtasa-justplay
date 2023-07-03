@@ -1,0 +1,6 @@
+<meta>
+	<info author="NyAngel" type="script" name="TR_christmas" />
+
+	<script src="c.lua" type="client" cache="false" />
+	<script src="s.lua" type="server" />
+</meta>

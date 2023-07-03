@@ -1,0 +1,78 @@
+<meta>
+	<info author = 'DeMoNeK_' name = 'TR_textures' version = '1.0' />
+
+	<script src = 'client/cTextures.lua' type = 'client' cache = 'false' />
+
+	<export function = 'getTextures' type = 'client' />
+	<export function = 'getTexture' type = 'client' />
+
+	<export function = 'destroyTexture' type = 'client' />
+	<export function = 'destroyAllTextures' type = 'client' />
+	
+	<file src="assets/blip/0.png" type="client"></file>
+	<file src="assets/blip/1.png" type="client"></file>
+	<file src="assets/blip/2.png" type="client"></file>
+	<file src="assets/blip/3.png" type="client"></file>
+	<file src="assets/blip/4.png" type="client"></file>
+	<file src="assets/blip/5.png" type="client"></file>
+	<file src="assets/blip/6.png" type="client"></file>
+	<file src="assets/blip/7.png" type="client"></file>
+	<file src="assets/blip/8.png" type="client"></file>
+	<file src="assets/blip/9.png" type="client"></file>
+	<file src="assets/blip/10.png" type="client"></file>
+	<file src="assets/blip/11.png" type="client"></file>
+	<file src="assets/blip/12.png" type="client"></file>
+	<file src="assets/blip/13.png" type="client"></file>
+	<file src="assets/blip/14.png" type="client"></file>
+	<file src="assets/blip/15.png" type="client"></file>
+	<file src="assets/blip/16.png" type="client"></file>
+	<file src="assets/blip/17.png" type="client"></file>
+	<file src="assets/blip/18.png" type="client"></file>
+	<file src="assets/blip/19.png" type="client"></file>
+	<file src="assets/blip/20.png" type="client"></file>
+	<file src="assets/blip/21.png" type="client"></file>
+	<file src="assets/blip/22.png" type="client"></file>
+	<file src="assets/blip/23.png" type="client"></file>
+	<file src="assets/blip/24.png" type="client"></file>
+	<file src="assets/blip/25.png" type="client"></file>
+	<file src="assets/blip/26.png" type="client"></file>
+	<file src="assets/blip/27.png" type="client"></file>
+	<file src="assets/blip/28.png" type="client"></file>
+	<file src="assets/blip/29.png" type="client"></file>
+	<file src="assets/blip/30.png" type="client"></file>
+	<file src="assets/blip/31.png" type="client"></file>
+	<file src="assets/blip/32.png" type="client"></file>
+	<file src="assets/blip/33.png" type="client"></file>
+	<file src="assets/blip/34.png" type="client"></file>
+	<file src="assets/blip/35.png" type="client"></file>
+	<file src="assets/blip/36.png" type="client"></file>
+	<file src="assets/blip/37.png" type="client"></file>
+	<file src="assets/blip/38.png" type="client"></file>
+	<file src="assets/blip/39.png" type="client"></file>
+	<file src="assets/blip/40.png" type="client"></file>
+	<file src="assets/blip/41.png" type="client"></file>
+	<file src="assets/blip/42.png" type="client"></file>
+	<file src="assets/blip/43.png" type="client"></file>
+	<file src="assets/blip/44.png" type="client"></file>
+	<file src="assets/blip/45.png" type="client"></file>
+	<file src="assets/blip/46.png" type="client"></file>
+	<file src="assets/blip/47.png" type="client"></file>
+	<file src="assets/blip/48.png" type="client"></file>
+	<file src="assets/blip/49.png" type="client"></file>
+	<file src="assets/blip/50.png" type="client"></file>
+	<file src="assets/blip/51.png" type="client"></file>
+	<file src="assets/blip/52.png" type="client"></file>
+	<file src="assets/blip/53.png" type="client"></file>
+	<file src="assets/blip/54.png" type="client"></file>
+	<file src="assets/blip/55.png" type="client"></file>
+	<file src="assets/blip/56.png" type="client"></file>
+	<file src="assets/blip/57.png" type="client"></file>
+	<file src="assets/blip/58.png" type="client"></file>
+	<file src="assets/blip/59.png" type="client"></file>
+	<file src="assets/blip/60.png" type="client"></file>
+	<file src="assets/blip/61.png" type="client"></file>
+	<file src="assets/blip/62.png" type="client"></file>
+	<file src="assets/blip/63.png" type="client"></file>
+	<file src="assets/blip/64.png" type="client"></file>
+	<file src="assets/blip/65.png" type="client"></file>
+</meta>

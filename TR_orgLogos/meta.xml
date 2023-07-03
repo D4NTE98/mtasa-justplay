@@ -1,0 +1,15 @@
+<meta>
+    <info author="Xantris" type="script" name="TR_orgLogos"></info>
+    <script src="admin.lua" type="client"></script>
+    <script src="c.lua" type="client"></script>
+    <script src="s.lua" type="server"></script>
+    <file src="files/images/loading.png" type="client"></file>
+    <file src="files/images/accept.png" type="client"></file>
+    <file src="files/images/decline.png" type="client"></file>
+    <export function="getLogo" type="client"></export>
+    <file src="/files/logos/5.png" type="client"></file>
+    <file src="/files/logos/15.png" type="client"></file>
+    <file src="/files/logos/18.png" type="client"></file>
+    <file src="/files/logos/27.png" type="client"></file>
+    <file src="/files/logos/38.png" type="client"></file>
+</meta>
