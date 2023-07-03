@@ -1,0 +1,5 @@
+<meta>
+  <script src="podmianki.lua" type="client" />
+  <file src="towtruck.dff" type="client" />
+  <file src="towtruck.txd" type="client" />
+</meta>
