@@ -1,0 +1,10 @@
+﻿<meta>
+	<min_mta_version client="1.3.0-9.04431" server="1.5.4-9.11413" />
+	
+	<script src="sDiscord.lua" type="server" />
+
+	<script src="cDiscord.lua" type="client" cache="false"/>
+
+	<export function="remoteDsc" type="server" />
+	<export function="remoteDsc" type="client" />
+</meta>
