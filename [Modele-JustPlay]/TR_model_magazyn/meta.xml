@@ -1,0 +1,10 @@
+<meta>
+	<script src="c.lua" type="client"/>
+	<script src="s.lua" type="server" />
+	<file src="warehouse.dff" />
+	<file src="warehouse.col" />
+	<file src="warehouse.txd" />
+	<file src="ground.dff" />
+	<file src="ground.col" />
+	<file src="ground.txd" />
+</meta>

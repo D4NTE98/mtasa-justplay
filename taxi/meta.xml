@@ -1,0 +1,7 @@
+<meta>
+
+	<!-- PODMIANKA -->
+	<file src="znak.txd" />
+	<script src="Podmianki.lua" type="client" />
+	
+</meta>

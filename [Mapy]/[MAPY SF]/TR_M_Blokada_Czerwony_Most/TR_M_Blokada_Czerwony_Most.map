@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (cn2_roadblock01ld) (1)" breakable="true" interior="0" alpha="255" model="4514" doublesided="false" scale="0" dimension="0" posX="-1496.5" posY="590.29999" posZ="35.3" rotX="0" rotY="0" rotZ="126"></object>
+    <object id="object (cn2_roadblock01ld) (2)" breakable="true" interior="0" alpha="255" model="4514" doublesided="false" scale="0" dimension="0" posX="-1022.2" posY="934.5" posZ="35.2" rotX="0" rotY="0" rotZ="305.997"></object>
+</map>

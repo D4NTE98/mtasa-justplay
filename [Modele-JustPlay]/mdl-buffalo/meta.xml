@@ -1,0 +1,5 @@
+<meta>
+  <script src="c.lua" type="client" cache="false"/>
+  <file src="assets/towtruck.dff" type="client" cache="false"/>
+  <file src="assets/towtruck.txd" type="client" cache="false"/>
+</meta>
