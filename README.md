@@ -27,4 +27,4 @@ i inni..
 7. Włącz zasób TR_mysql a następnie TR_starter i poczekaj aż wszystko się uruchomi.
 
 # Na co nie wydajemy pozwolenia jako autorzy?
-- Na korzystanie z grafiki loga serwera oraz jego nazwy - Just Play.
+- Na korzystanie z grafiki loga serwera.
