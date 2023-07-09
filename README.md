@@ -28,3 +28,9 @@ i inni..
 
 # Na co nie wydajemy pozwolenia jako autorzy?
 - Na korzystanie z grafiki loga serwera.
+
+# TODO
+- Zadania dzienne w panelu gracza
+- Dodać unikalne kody zaproszeń zamiast randomowow wygenerowanych
+- Skończyć zakładkę premium w panelu gracza
+- Dodać nowe mechaniki do strefy DM tj. handel z NPC, boty, możliwość ustawienia konfliktu z wrogim gangiem.
